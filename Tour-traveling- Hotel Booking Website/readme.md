@@ -46,3 +46,5 @@ outline of the core processes and a flowchart illustrating the user journey.
 - Database:
    MySQL to store and manage user information, hotel details, and booking records.
 
+
+
