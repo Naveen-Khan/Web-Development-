@@ -50,4 +50,6 @@ outline of the core processes and a flowchart illustrating the user journey.
 <img src="image.png" width=800 height=800 center=true >
 
 
+Data base design
+<img src="Picture2.png">
 
