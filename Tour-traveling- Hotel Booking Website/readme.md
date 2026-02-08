@@ -27,3 +27,7 @@ budget, helping them find the best match quickly.
 4. *Detailed Hotel Information:* Provide comprehensive information on each hotel, 
 including images, descriptions, amenities, and reviews, to aid informed decision
 making.
+5. *Secure Checkout System:* Implement a secure and straightforward process to instil 
+confidence in users when making reservations. 
+6. *Responsive Design:* Ensure that the website is accessible and visually appealing on 
+various devices, including desktops, tablets, and smartphones.
