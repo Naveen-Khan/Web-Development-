@@ -14,3 +14,16 @@ hard for travelers to narrow down choices effectively.
 
 Addressing these issues is essential to creating a better experience for travelers, particularly 
 those who want to streamline the booking process and feel confident in their choices. 
+
+
+### Objectives: 
+The primary goal of our website is to create a simplified and intuitive hotel booking platform. Our specific objectives are as follows: 
+1. User Registration and Login: Implement a secure and easy-to-use system that 
+allows users to create accounts and log in. 
+2. Visual Appeal and Navigation: Design an engaging homepage that showcases 
+popular travel destinations, allowing users to easily select a city of interest. 
+3. Accommodation Filtering Options: Enable users to filter accommodations by 
+budget, helping them find the best match quickly. 
+4. Detailed Hotel Information: Provide comprehensive information on each hotel, 
+including images, descriptions, amenities, and reviews, to aid informed decision
+making.
