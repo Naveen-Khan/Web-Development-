@@ -28,6 +28,24 @@ budget, helping them find the best match quickly.
 including images, descriptions, amenities, and reviews, to aid informed decision
 making.
 5. *Secure Checkout System:* Implement a secure and straightforward process to instil 
-confidence in users when making reservations. 
-6. *Responsive Design:* Ensure that the website is accessible and visually appealing on 
+confidence in users when making reservations.
+
+
+### Implementation: 
+The implementation of this project relies on a combination of front-end and back-end 
+technologies, working in sync to deliver an efficient and secure user experience. Here’s an 
+outline of the core processes and a flowchart illustrating the user journey. 
+
+
+### Technologies Used: 
+-  Frontend:
+       HTML, CSS, and JavaScript for structure, styling, and interactivity.
+   
+-  Backend:
+        PHP for handling server requests, managing user data, and processing bookings.
+   
+- Database:
+   MySQL to store and manage user information, hotel details, and booking 
+records.
+7. *Responsive Design:* Ensure that the website is accessible and visually appealing on 
 various devices, including desktops, tablets, and smartphones.
