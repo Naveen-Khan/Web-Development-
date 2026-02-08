@@ -51,5 +51,5 @@ outline of the core processes and a flowchart illustrating the user journey.
 
 
 Data base design
-<img src="Picture2.png">
+<img src="Source code/Picture2.png">
 
