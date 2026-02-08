@@ -22,13 +22,12 @@ The primary goal of our website is to create a simplified and intuitive hotel bo
 allows users to create accounts and log in. 
 2. *Visual Appeal and Navigation:* Design an engaging homepage that showcases 
 popular travel destinations, allowing users to easily select a city of interest. 
-3. *Accommodation Filtering Options:* Enable users to filter accommodations by 
-budget, helping them find the best match quickly. 
-4. *Detailed Hotel Information:* Provide comprehensive information on each hotel, 
-including images, descriptions, amenities, and reviews, to aid informed decision
-making.
+3. *Accommodation Filtering Options:* Enable users to filter accommodations by budget, helping them find the best match quickly. 
+4. *Detailed Hotel Information:* Provide comprehensive information on each hotel, including images, descriptions, amenities, and reviews, to aid informe decision making.
 5. *Secure Checkout System:* Implement a secure and straightforward process to instil 
 confidence in users when making reservations.
+7. *Responsive Design:* Ensure that the website is accessible and visually appealing on 
+various devices, including desktops, tablets, and smartphones.
 
 
 ### Implementation: 
@@ -45,7 +44,5 @@ outline of the core processes and a flowchart illustrating the user journey.
         PHP for handling server requests, managing user data, and processing bookings.
    
 - Database:
-   MySQL to store and manage user information, hotel details, and booking 
-records.
-7. *Responsive Design:* Ensure that the website is accessible and visually appealing on 
-various devices, including desktops, tablets, and smartphones.
+   MySQL to store and manage user information, hotel details, and booking records.
+
